@@ -3,6 +3,7 @@ Nhóm gồm 3 thành viên:<br>
 - Nguyễn Văn Tuấn<br>
 - Nguyễn Xuân Đạt<br>
 - Lương Văn Quý<br>
+
 Đề tài được triển khai theo hai cách tiếp cận sau:<br>
 - Phân loại hành động dựa trên khung xương<br>
 - Phân loại hành động sử dụng mô hình I3D<br>
