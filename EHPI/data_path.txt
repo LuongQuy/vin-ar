@@ -1,0 +1,2 @@
+Thư mục chứa dữ liệu luyện và phần code sử dụng HRNet để trích xuất skeleton
+https://drive.google.com/drive/folders/1zA_829iuSiBjBdwLKdpBpo8uEZHZ5fDD?usp=sharing
