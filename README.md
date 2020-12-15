@@ -1,6 +1,6 @@
 Đây là đề tài "Action Recognition" cuối khóa môn Deep Learning tại VinBigdata.<br>
 Nhóm gồm 3 thành viên:<br>
-- Nguyễn Văn Tuấn<br>
+- Nguyễn Anh Tuấn<br>
 - Nguyễn Xuân Đạt<br>
 - Lương Văn Quý<br>
 
